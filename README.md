@@ -1,5 +1,3 @@
-## Dokumentasi
-<a href="https://ozkadon.blogspot.com/2018/06/odwincms-cms-dengan-framework-laravel.html">https://ozkadon.blogspot.com/2018/06/odwincms-cms-dengan-framework-laravel.html</a>
 
 ## License
 
